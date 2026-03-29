@@ -7,3 +7,9 @@ spring:
       chat:
         options:
           model: qwen-plus
+
+
+# searchApi
+search-api:
+  api-key: X5geWWJ2tGNC1dHQcz1hXzHc
+
